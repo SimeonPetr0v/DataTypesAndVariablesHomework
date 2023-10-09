@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageKegs", "StorageKegs\StorageKegs.csproj", "{916F81B4-3F3B-47AF-82E5-6AD930F1821E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{916F81B4-3F3B-47AF-82E5-6AD930F1821E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916F81B4-3F3B-47AF-82E5-6AD930F1821E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916F81B4-3F3B-47AF-82E5-6AD930F1821E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916F81B4-3F3B-47AF-82E5-6AD930F1821E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99CF2AAA-7237-49BA-AD13-61AB9490A390}
+	EndGlobalSection
+EndGlobal
